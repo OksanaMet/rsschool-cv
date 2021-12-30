@@ -1,6 +1,9 @@
- # Oksana Met # 
+ # Oksana Met 
+
 ## **Contacts:**
+
 ***
+
 **Location:** Spain, Murcia
 
 
@@ -13,12 +16,16 @@
 **Discort:** OksanaMet@
 
 ## **Education**
+
 ***
+
 * Lesya Ukrainka Volyn National University
 * Institute  of Preparation of Staff of the State Employment Service of Ukraine.
  
 ## **Work experiance:**
+
 ***
+
 - secretary of private enterprise "Pelican";
 - leading specialist of Lutsk city employment  center;
 - head of the recrutment sector of Volyn regional employment center;
@@ -29,15 +36,21 @@ My name is Oksana Met. I am 32 yers old. Now I live in Spain and learn web-desig
 
 
 ## **Language:**
+
 ***
+
 Ukrainian: native
 
 English: A1/A2
 
 Spanish: A2
+
 ***
+
 ## **Code example:**
+
 ***
+
 ```javascript
 function multiply (a, b) {
     return a*b
@@ -47,8 +60,10 @@ const multiply = (a, b) > a*b
 ```
  
 ***
+
 ## **Skills:**
 ***
+
 - **HTML:** basik
 - **CSS:** basik
 - **Version control:**  Git (GitHub)
