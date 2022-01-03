@@ -1,0 +1,79 @@
+ .wrapper {
+  min-height: 100%;
+  width: 1440;
+  background-color: rgb(228, 225, 222);
+  padding: 50px 50px 0 50px;
+
+ }
+
+ .conteiner {
+   display: flex;
+   flex: 1 1 auto;
+   background-color:#fff; 
+   justify-content: center;
+   line-height: 1.5;
+ }
+ 
+  h2 {
+     border-bottom: 5px solid #fdedec;
+  }
+
+ .col {
+    padding: 50px;
+    font-size: 25px;
+    vertical-align: top;  
+ }
+
+ .column1 {
+    background-color:#fdedec;
+    width: 50%; 
+    text-align: left; 
+    margin: 25px;
+ }
+ .ul {
+   list-style-type: none;
+ }
+
+ .column2 {
+    background-color: #fff;
+    text-align: justify;
+ }
+
+ .code {
+    position:absolute;
+    margin-top: 15px;
+    padding: 5px;
+    margin: 20px;
+    width:fit-content;
+    background-color:rgb(233, 225, 225);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif monospaсe;
+ }
+
+  .skills {
+     margin-top: 170px;
+ 
+  }
+  .footer {
+     background-color: #fdedec;
+     width: 100%;
+     margin: 0 0px -20px 0;
+     padding: 0;
+     border: 0;
+ }
+
+ .footer_in {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style-type: none;
+ }
+ .logo {
+    width: 20%;
+ }
+
+.year {
+  font-size: 70px;
+  font-weight: bolder;
+  font-family: sans-serif;
+}
+
