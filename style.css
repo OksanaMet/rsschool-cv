@@ -1,9 +1,10 @@
  .wrapper {
-min-height: 100%;
-overflow: hidden;
+  min-height: 100%;
+  overflow: hidden;
 }
+
  .conteiner {
-display: flex;
+   display: flex;
    background-color:#fff; 
    height: 1440px;
    width: 1440px;
@@ -12,25 +13,27 @@ display: flex;
    justify-content: space-between;
    align-items: stretch;
    align-content: stretch;
- 
  }
-.col {
+
+ .col {
     padding: 50px;
     margin: 25px;
     font-size: 25px;
-    vertical-align: top
-}
+    vertical-align: top;  
+ }
+
  .column1 {
-     background-color:#fff
-     width: 60%;  
-     text-align: left;
-}
+    background-color:#fdedec;
+    width: 60%;  
+    text-align: left;
+    
+ }
 
  .column2 {
-    background-color: #fff 
-    
-}
- .contact {
-     background-color:#FDEDEC;
- padding: 5px 
-}
+    background-color: #fff;   
+ }
+
+ .footer {
+     display: block
+ }
+ 
