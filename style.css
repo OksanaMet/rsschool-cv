@@ -1,7 +1,9 @@
  .wrapper {
   min-height: 100%;
   width: 1440;
-  
+  background-color: rgb(228, 225, 222);
+  padding: 50px 50px 0 50px;
+
 }
 
  .conteiner {
@@ -9,9 +11,12 @@
    flex: 1 1 auto;
    background-color:#fff; 
    justify-content: center;
-
-
+   line-height: 1.5;
  }
+ 
+  h2 {
+     border-bottom: 5px solid #fdedec;
+  }
 
  .col {
     padding: 50px;
@@ -25,9 +30,13 @@
     text-align: left; 
     margin: 25px;
  }
+ .ul {
+   list-style-type: none;
+ }
 
  .column2 {
     background-color: #fff;
+    text-align: justify;
  }
 
  .code {
@@ -41,7 +50,7 @@
  }
 
   .skills {
-     margin-top: 150px;
+     margin-top: 170px;
 
 
   }
@@ -56,6 +65,7 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
+    list-style-type: none;
  }
  .logo {
     width: 20%;
